@@ -1,0 +1,26 @@
+{
+  "name": "PelicanAdmin",
+  "version": "0.0.0",
+  "description": "Admin page for pelican blogs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/blister75/pelicanAdmin"
+  },
+  "keywords": [
+    "admin",
+    "pelican",
+    "blog"
+  ],
+  "author": "Blixa Morgan <blixa@projectmakeit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blister75/pelicanAdmin/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.4"
+  }
+}
